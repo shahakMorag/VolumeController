@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "ComputerVolume",
   "pluginType": "platform",
   "singular": true,
   "schema": {
